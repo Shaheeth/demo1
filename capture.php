@@ -11,7 +11,7 @@
 
 ?>
 
-<h1> your password has been captured</h1>
+<h1> "C:\xampp\htdocs\Ffm_Nz_XEAEG0-4.jpg"</h1>
 
 <?php
 
